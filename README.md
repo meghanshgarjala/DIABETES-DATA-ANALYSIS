@@ -1,3 +1,9 @@
+# Analysis Dashboard
+
+This dashboard provides insights into air pollution analysis, with a focus on pollutants in Delhi. It contains three main analyses: Time Series Analysis, Pollutant Concentration, and a Heatmap of Pollutants. Each analysis is displayed based on the selected option, and the results help in understanding the behavior of different air pollutants.
+
+
+
 ![Image description](preg_glu.png)
   <div style="background-color:lightblue; color:darkblue; padding:10px; font-size:35px;width:95%; margin:0 auto; text-align:center;">
 INFERENCES FROM THE HISTOGRAMS
